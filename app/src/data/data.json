@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "image": ".jpg",
+    "favorite": false,
+    "value": "",
+    "direction": "",
+    "stars": "",
+    "info": [
+      {"name": "hab", "number": ""},
+      {"name": "banios", "number": ""},
+      {"name": "metros", "quantity": ""}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "",
+    "image": ".jpg",
+    "favorite": false,
+    "value": "",
+    "direction": "",
+    "stars": "",
+    "info": [
+      {"name": "hab", "number": ""},
+      {"name": "banios", "number": ""},
+      {"name": "metros", "quantity": ""}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "",
+    "image": ".jpg",
+    "favorite": false,
+    "value": "",
+    "direction": "",
+    "stars": "",
+    "info": [
+      {"name": "hab", "number": ""},
+      {"name": "banios", "number": ""},
+      {"name": "metros", "quantity": ""}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "",
+    "image": ".jpg",
+    "favorite": false,
+    "value": "",
+    "direction": "",
+    "stars": "",
+    "info": [
+      {"name": "hab", "number": ""},
+      {"name": "banios", "number": ""},
+      {"name": "metros", "quantity": ""}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "",
+    "image": ".jpg",
+    "favorite": false,
+    "value": "",
+    "direction": "",
+    "stars": "",
+    "info": [
+      {"name": "hab", "number": ""},
+      {"name": "banios", "number": ""},
+      {"name": "metros", "quantity": ""}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "",
+    "image": ".jpg",
+    "favorite": false,
+    "value": "",
+    "direction": "",
+    "stars": "",
+    "info": [
+      {"name": "hab", "number": ""},
+      {"name": "banios", "number": ""},
+      {"name": "metros", "quantity": ""}
+    ]
+  },
+  {
+    "id": 7,
+    "name": "",
+    "image": ".jpg",
+    "favorite": false,
+    "value": "",
+    "direction": "",
+    "stars": "",
+    "info": [
+      {"name": "hab", "number": ""},
+      {"name": "banios", "number": ""},
+      {"name": "metros", "quantity": ""}
+    ]
+  }
+]
