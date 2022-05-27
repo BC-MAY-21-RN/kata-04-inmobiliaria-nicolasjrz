@@ -1,100 +1,129 @@
 [
   {
-    "id": 1,
-    "name": "",
+    "id": 0,
+    "name": "The Willows",
     "image": ".jpg",
     "favorite": false,
-    "value": "",
-    "direction": "",
-    "stars": "",
-    "info": [
-      {"name": "hab", "number": ""},
-      {"name": "banios", "number": ""},
-      {"name": "metros", "quantity": ""}
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
+    ]
+  },
+  {
+    "id": 1,
+    "name": "The Willows",
+    "image": ".jpg",
+    "favorite": false,
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
     ]
   },
   {
     "id": 2,
-    "name": "",
+    "name": "The Willows",
     "image": ".jpg",
     "favorite": false,
-    "value": "",
-    "direction": "",
-    "stars": "",
-    "info": [
-      {"name": "hab", "number": ""},
-      {"name": "banios", "number": ""},
-      {"name": "metros", "quantity": ""}
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
     ]
   },
   {
     "id": 3,
-    "name": "",
+    "name": "The Willows",
     "image": ".jpg",
     "favorite": false,
-    "value": "",
-    "direction": "",
-    "stars": "",
-    "info": [
-      {"name": "hab", "number": ""},
-      {"name": "banios", "number": ""},
-      {"name": "metros", "quantity": ""}
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
     ]
   },
   {
     "id": 4,
-    "name": "",
+    "name": "The Willows",
     "image": ".jpg",
     "favorite": false,
-    "value": "",
-    "direction": "",
-    "stars": "",
-    "info": [
-      {"name": "hab", "number": ""},
-      {"name": "banios", "number": ""},
-      {"name": "metros", "quantity": ""}
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
     ]
   },
   {
     "id": 5,
-    "name": "",
+    "name": "The Willows",
     "image": ".jpg",
     "favorite": false,
-    "value": "",
-    "direction": "",
-    "stars": "",
-    "info": [
-      {"name": "hab", "number": ""},
-      {"name": "banios", "number": ""},
-      {"name": "metros", "quantity": ""}
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
     ]
   },
   {
     "id": 6,
-    "name": "",
+    "name": "The Willows",
     "image": ".jpg",
     "favorite": false,
-    "value": "",
-    "direction": "",
-    "stars": "",
-    "info": [
-      {"name": "hab", "number": ""},
-      {"name": "banios", "number": ""},
-      {"name": "metros", "quantity": ""}
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
     ]
   },
   {
     "id": 7,
-    "name": "",
+    "name": "The Willows",
     "image": ".jpg",
     "favorite": false,
-    "value": "",
-    "direction": "",
-    "stars": "",
-    "info": [
-      {"name": "hab", "number": ""},
-      {"name": "banios", "number": ""},
-      {"name": "metros", "quantity": ""}
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
+    ]
+  },
+  {
+    "id": 8,
+    "name": "The Willows",
+    "image": ".jpg",
+    "favorite": false,
+    "price": "$440/m",
+    "direction": "3517 W. Gray St. Utica",
+    "stars": "4.7",
+    "details": [
+      {"environments": "3"},
+      {"bath": "2"},
+      {"meters": "230 ft"}
     ]
   }
+  
 ]
