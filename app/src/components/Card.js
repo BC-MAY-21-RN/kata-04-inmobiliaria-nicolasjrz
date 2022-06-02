@@ -1,33 +1,57 @@
 import React from 'react';
-import {View, Text, StyleSheet, Image} from 'react-native';
-const Card = props => {
-  const {id, name, price, direction, stars, details} = props.values;
+import {View, Text, StyleSheet, Dimensions} from 'react-native';
+import Icon from 'react-native-vector-icons/Ionicons';
+import Details from './Details';
+import ImageStar from './ImageStar';
+import Location from './Location';
+
+const Card = ({
+  id,
+  title,
+  price,
+  direction,
+  stars,
+  environments,
+  bath,
+  meters,
+}) => {
   return (
-    <View style={styles.container}>
-      <View style={styles.card}>
-        <Image source={require('../img/fideos.jpg')} style={styles.image} />
-        <View style={styles.cardBody}>
-          <Text>{name}</Text>
-          <Text>{direction}</Text>
-          <Text>{price}</Text>
-          <Text>{stars}</Text>
-        </View>
+    <View style={styles.card}>
+      <ImageStar style={{flex: 1}} stars={stars} />
+      <View style={(styles.cardBody, {flex: 2})}>
+        <Text style={styles.cardTitle}>{title}</Text>
+        <Location ubication={direction} width={20} height={20} />
+        <Details environments={environments} bath={bath} meters={meters} />
+        <Text style={styles.price}>{price}</Text>
       </View>
     </View>
   );
 };
-
+///Ionicons  bed-outline -
 const styles = StyleSheet.create({
-  container: {
-    padding: 20,
-  },
   card: {
+    flex: 1,
+    width: Dimensions.get('screen').width,
     flexDirection: 'row',
-    backgroundColor: 'yellow',
+    backgroundColor: '#F5FDFF',
+    borderRadius: 20,
+    paddingTop: 20,
+    paddingBottom: 20,
+    marginTop: 20,
+    alignSelf: 'center',
   },
-  image: {
-    width: 100,
-    height: 100,
+  cardBody: {
+    backgroundColor: 'pink',
+    width: 140,
+  },
+  cardTitle: {
+    fontSize: 20,
+    color: 'black',
+    marginBottom: 5,
+  },
+  price: {
+    fontSize: 20,
+    color: 'black',
   },
 });
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, Text, StyleSheet} from 'react-native';
+import {View, Text, StyleSheet, Dimensions} from 'react-native';
 import Inmuebles from '../data/data.json';
 import ListCard from '../components/ListCard';
 const Home = () => {
