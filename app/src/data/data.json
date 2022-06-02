@@ -37,8 +37,8 @@
   },
   {
     "id": 3,
-    "title": "https://i.pinimg.com/474x/b4/ee/e2/b4eee26494fae2af4e37dbad9ec2082c--architecture-visualization-marina.jpg",
-    "image": ".jpg",
+    "title": "The Willows",
+    "image": "https://i.pinimg.com/474x/b4/ee/e2/b4eee26494fae2af4e37dbad9ec2082c--architecture-visualization-marina.jpg",
     "favorite": false,
     "price": "$440/m",
     "direction": "3517 W. Gray St. Utica",
@@ -49,8 +49,8 @@
   },
   {
     "id": 4,
-    "title": "https://i.pinimg.com/474x/b4/ee/e2/b4eee26494fae2af4e37dbad9ec2082c--architecture-visualization-marina.jpg",
-    "image": ".jpg",
+    "title": "The Willows",
+    "image": "https://i.pinimg.com/474x/b4/ee/e2/b4eee26494fae2af4e37dbad9ec2082c--architecture-visualization-marina.jpg",
     "favorite": false,
     "price": "$440/m",
     "direction": "3517 W. Gray St. Utica",
