@@ -5,7 +5,12 @@ import Star from '../icons/star.svg';
 const ImageStar = props => {
   return (
     <View style={styles.container}>
-      <Image source={require('../img/fideos.jpg')} style={styles.image} />
+      <Image
+        source={{
+          uri: 'https://i.pinimg.com/474x/b4/ee/e2/b4eee26494fae2af4e37dbad9ec2082c--architecture-visualization-marina.jpg',
+        }}
+        style={styles.image}
+      />
       <View color="#fcba03" style={styles.icon}>
         <Star width={20} height={20} />
         <Text style={styles.text}>{props.stars}</Text>
