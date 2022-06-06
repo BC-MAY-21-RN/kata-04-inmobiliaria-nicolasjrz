@@ -3,8 +3,8 @@ import {View, Text, StyleSheet, Dimensions} from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
 import Details from './Details';
 import ImageStar from './ImageStar';
+import LikeButton from './LikeButton';
 import Location from './Location';
-
 const Card = ({
   id,
   title,
@@ -23,6 +23,7 @@ const Card = ({
         <Location ubication={direction} width={20} height={20} />
         <Details environments={environments} bath={bath} meters={meters} />
         <Text style={styles.price}>{price}</Text>
+        <LikeButton></LikeButton>
       </View>
     </View>
   );
